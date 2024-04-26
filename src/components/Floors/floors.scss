@@ -1,0 +1,426 @@
+.floors {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  padding: 70px 140px 70px 140px;
+
+  .floors__titles {
+    display: flex;
+    gap: 22px;
+
+    .floors__title {
+      color: #222;
+      font-family: Roboto;
+      font-size: 20px;
+      font-style: normal;
+      font-weight: 500;
+      line-height: normal;
+    }
+
+    .gray {
+      color: #717171;
+    }
+  }
+
+  .floors__images {
+    display: flex;
+    gap: 32px;
+
+    .image-block {
+      position: relative;
+      flex: 1;
+
+      img {
+        height: 390px;
+        width: 100%;
+
+        object-fit: cover;
+
+        border-radius: 12px;
+        border: 1px solid #F1F1F1;
+        box-shadow: 0px 2px 12px 0px rgba(0, 0, 0, 0.03);
+
+        cursor: pointer;
+      }
+
+      &:last-child {
+        .image-block_form {
+          pointer-events: unset;
+          opacity: 1;
+        }
+      }
+
+
+      .image-block_form {
+        position: absolute;
+        top: 0;
+        left: 0;
+        height: 100%;
+        width: 100%;
+
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap: 26px;
+        opacity: 0;
+        pointer-events: none;
+        transition: 0.3s;
+
+        border-radius: 12px;
+        background: rgba(0, 0, 0, 0.35);
+        backdrop-filter: blur(11px);
+
+        .image-block_title {
+          display: flex;
+          flex-direction: column;
+          gap: 4px;
+          width: 322px;
+
+          div:first-child {
+            color: #FFF;
+            font-family: Roboto;
+            font-size: 22px;
+            font-style: normal;
+            font-weight: 500;
+            line-height: normal;
+          }
+
+          div:last-child {
+            color: #FFF;
+            font-family: Roboto;
+            font-size: 14px;
+            font-style: normal;
+            font-weight: 400;
+            line-height: normal;
+          }
+        }
+
+        form {
+          width: 322px;
+          display: flex;
+          flex-direction: column;
+          gap: 15px;
+
+          .input-field {
+            display: flex;
+            justify-content: space-between;
+            padding: 11px 17px;
+            gap: 15px;
+
+            border-radius: 12px;
+            border: 1px solid rgba(241, 241, 241, 0.45);
+            background: rgba(0, 0, 0, 0.17);
+
+            input {
+              flex: 1;
+
+              color: #F1F1F1;
+              font-family: Roboto;
+              font-size: 14px;
+              font-style: normal;
+              font-weight: 400;
+              line-height: normal;
+
+              outline: none;
+              border: none;
+              background: transparent;
+
+              &::placeholder {
+                color: #F1F1F1;
+              }
+            }
+          }
+
+          .image-block__plan {
+            display: flex;
+            width: 322px;
+            padding: 7px 17px;
+            align-items: center;
+            gap: 10px;
+
+            color: #FFF;
+            font-family: Roboto;
+            font-size: 14px;
+            font-style: normal;
+            font-weight: 400;
+            line-height: 35px; /* 250% */
+
+            border-radius: 12px;
+            border: 1px solid rgba(244, 244, 244, 0.17);
+            background: #DBA77B;
+            box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.05);
+
+            cursor: pointer;
+          }
+        }
+      }
+    }
+  }
+
+  .plan-modal {
+    display: none;
+  }
+}
+
+@media (max-width: 1300px) {
+  .floors {
+    padding: 44px 40px 44px 40px;
+    gap: 20px;
+
+    .floors__titles {
+      .floors__title {
+      }
+
+    }
+
+    .floors__images {
+      display: flex;
+      gap: 32px;
+
+      .image-block {
+        position: relative;
+        flex: 1;
+
+        img {
+          height: 236px;
+          width: 100%;
+        }
+
+        .image-block_form {
+          gap: 16px;
+
+          .image-block_title {
+            width: calc(100% - 48px);
+            gap: 8px;
+
+            div:first-child {
+              font-size: 20px;
+            }
+
+            div:last-child {
+              font-size: 14px;
+            }
+          }
+
+          form {
+            width: calc(100% - 48px);
+
+            .input-field {
+              display: none;
+
+              input {
+              }
+            }
+
+            .image-block__plan {
+              padding: 6px 17px;
+              width: unset;
+              justify-content: center;
+            }
+          }
+        }
+      }
+    }
+
+    .plan-modal {
+      display: none;
+      height: 100svh;
+      width: 100svw;
+      position: fixed;
+      top: 0;
+      left: 0;
+
+      background: rgba(0, 0, 0, 0.08);
+      z-index: 999;
+
+      &.active {
+        display: flex;
+      }
+
+      .plan-modal__body {
+        position: absolute;
+        width: 352px;
+        top: 50%;
+        left: 50%;
+        display: flex;
+        flex-direction: column;
+
+        transform: translate(-50%, -50%);
+
+        padding: 24px 24px 40px 24px;
+        border-radius: 12px;
+        background: #FFF;
+
+        .plan-modal__close {
+          display: flex;
+          justify-content: flex-end;
+          margin-bottom: 6px;
+
+          cursor: pointer;
+        }
+
+        .plan-modal__title {
+          display: flex;
+          flex-direction: column;
+          gap: 8px;
+          margin-bottom: 20px;
+
+          div:first-child {
+            h5 {
+              color: #222;
+              font-family: Roboto;
+              font-size: 22px;
+              font-style: normal;
+              font-weight: 500;
+              line-height: 130%; /* 28.6px */
+            }
+
+          }
+
+          div:last-child {
+            color: #222;
+            font-family: Roboto;
+            font-size: 16px;
+            font-style: normal;
+            font-weight: 400;
+            line-height: 22px; /* 137.5% */
+          }
+        }
+
+        .plan-modal__form {
+          display: flex;
+          flex-direction: column;
+          gap: 16px;
+
+          .input-field {
+            display: flex;
+            justify-content: space-between;
+            padding: 11px 17px;
+            gap: 15px;
+
+            border-radius: 12px;
+            border: 1px solid rgba(241, 241, 241, 0.45);
+            background: #F1F1F1;
+
+            input {
+              flex: 1;
+
+              color: #717171;
+              font-family: Roboto;
+              font-size: 14px;
+              font-style: normal;
+              font-weight: 400;
+              line-height: normal;
+
+              outline: none;
+              border: none;
+              background: transparent;
+
+              &::placeholder {
+                color: #717171;
+              }
+            }
+
+            svg {
+              path {
+                fill: #DCDCDC;
+              }
+            }
+          }
+
+          .image-block__plan {
+            display: flex;
+            padding: 0px 17px;
+            align-items: center;
+            gap: 10px;
+            height: 48px;
+
+            color: #FFF;
+            font-family: Roboto;
+            font-size: 14px;
+            font-style: normal;
+            font-weight: 400;
+            line-height: 18px; /* 128.571% */
+
+            border-radius: 12px;
+            border: 1px solid rgba(244, 244, 244, 0.17);
+            background: #DBA77B;
+            box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.05);
+
+            cursor: pointer;
+          }
+        }
+      }
+    }
+  }
+}
+
+@media (max-width: 768px) {
+  .floors {
+    padding: 44px 16px 44px 16px;
+    gap: 20px;
+
+    .floors__titles {
+      .floors__title {
+      }
+
+    }
+
+    .floors__images {
+      display: flex;
+      flex-direction: column;
+
+      .image-block {
+        height: 244px;
+        img {
+        }
+
+        .image-block_form {
+
+          .image-block_title {
+            div:first-child {
+            }
+
+            div:last-child {
+            }
+          }
+
+          form {
+            .input-field {
+              input {
+              }
+            }
+
+            .image-block__plan {
+            }
+          }
+        }
+      }
+    }
+
+    .plan-modal {
+      .plan-modal__body {
+        .plan-modal__close {
+        }
+
+        .plan-modal__title {
+          div:first-child {
+            h5 {
+              font-size: 16px;
+            }
+          }
+
+          div:last-child {
+            font-size: 12px;
+            line-height: normal;
+          }
+        }
+
+        .plan-modal__form {
+          gap: 8px;
+        }
+      }
+    }
+  }
+}

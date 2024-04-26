@@ -1,0 +1,1032 @@
+[
+  {
+    "_id": "65e8a8f00b1178a2d68a2758",
+    "name": "Development Marbella Sunset, new construction in Marbella",
+    "completion": "Ready",
+    "size": 1,
+    "hidden": false,
+    "price_from": 1150000,
+    "size_m2": 7012,
+    "location": "Avenida de los Acebos s/n, Marbella, Málaga",
+    "handover": "2025-09-16T09:08:38.772+00:00",
+    "short_description": {
+      "total_floors": 0,
+      "type": "Flat",
+      "floor": null,
+      "area": null,
+      "rooms": 0
+    },
+    "pictures": [
+      "https://newbuildingspain.com/media/photo/0001/54/thumb_53553_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0001/54/thumb_53552_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0001/54/thumb_53554_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0001/54/thumb_53555_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0001/54/thumb_53556_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0001/54/thumb_53557_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0001/54/thumb_53558_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0001/54/thumb_53559_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0001/54/thumb_53560_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0001/54/thumb_53561_photo_standart.jpg"
+    ],
+    "coordinates": {
+      "lng": "-4.7836875915527",
+      "lat": "36.499028667571"
+    },
+    "area": "Marbella",
+    "last_update": "2024-04-24T16:20:19.858",
+    "parsed": "2024-04-24T16:19:05.815",
+    "link": "",
+    "rating": null,
+    "isTop": false,
+    "about": {
+      "EN": {
+        "title": "",
+        "description": ""
+      }
+    },
+    "amenities": null,
+    "floorPlans": {
+      "3": {
+        "price_from": 1150000,
+        "plans": [
+          {
+            "image": "https://newbuildingspain.com/media/photo/0001/54/thumb_53555_photo_standart.jpg",
+            "name": null,
+            "location": null,
+            "description": {
+              "totalFloors": null,
+              "type": "Ground floor",
+              "floor": 0,
+              "area": 164
+            },
+            "price_from": 1150000,
+            "pricem2": null,
+            "planInfo": null
+          },
+          {
+            "image": "https://newbuildingspain.com/media/photo/0001/54/thumb_53555_photo_standart.jpg",
+            "name": null,
+            "location": null,
+            "description": {
+              "totalFloors": null,
+              "type": "Flat",
+              "floor": 0,
+              "area": 164
+            },
+            "price_from": 1150000,
+            "pricem2": null,
+            "planInfo": null
+          },
+          {
+            "image": "https://newbuildingspain.com/media/photo/0001/54/thumb_53555_photo_standart.jpg",
+            "name": null,
+            "location": null,
+            "description": {
+              "totalFloors": null,
+              "type": "Ground floor",
+              "floor": 0,
+              "area": 165
+            },
+            "price_from": 1250000,
+            "pricem2": null,
+            "planInfo": null
+          }
+        ]
+      }
+    },
+    "reference": null
+  },
+  {
+    "_id": "65e8a8f10b1178a2d68a275b",
+    "name": "Development Buena Vista Hills, new construction in Marbella",
+    "completion": "Ready",
+    "size": 1,
+    "hidden": false,
+    "price_from": 1350000,
+    "size_m2": 2903,
+    "location": "Calle Green s/n, Marbella, Málaga",
+    "handover": "2024-12-30T05:05:38.584+00:00",
+    "short_description": {
+      "total_floors": 0,
+      "type": "Flat",
+      "floor": null,
+      "area": null,
+      "rooms": 0
+    },
+    "pictures": [
+      "https://newbuildingspain.com/media/photo/0001/44/thumb_43249_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0001/44/thumb_43248_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0001/44/thumb_43250_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0001/44/thumb_43251_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0001/44/thumb_43252_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0001/44/thumb_43253_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0001/44/thumb_43254_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0001/44/thumb_43255_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0001/44/thumb_43256_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0001/44/thumb_43257_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0001/44/thumb_43258_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0001/44/thumb_43259_photo_standart.jpg"
+    ],
+    "coordinates": {
+      "lng": "-4.8308944702148",
+      "lat": "36.510080774257"
+    },
+    "area": "Marbella",
+    "last_update": "2024-04-24T16:20:19.944",
+    "parsed": "2024-04-24T16:19:05.901",
+    "link": "",
+    "rating": null,
+    "isTop": null,
+    "about": {
+      "EN": {
+        "title": "New development for sale in Marbella, Málaga",
+        "description": "Buena Vista Hills is a development with turnkey villas located in a gated community with the name \"Urbanización Buena Vista\", which benefits from the elevated position just above the Higueron Resort. All villas have stunning sea and mountain views over Benalmadena, Fuengirola, Marbella, Gibraltar, and the coasts of Africa. The villas have the best choice of construction materials of maximum guarantees and the latest generation in all constructions. Always using first quality in all our promotions. The villas of the Buena Vista Hills development are located in the Urbanization Buenavista, on the coast of Mijas, and surrounded by a natural setting. The residential complex has great communication with Malaga, is only 16 minutes from Malaga airport, and only 10 minutes from the commuter train Carvajal and Higueron Beach and Hilton hotel."
+      }
+    },
+    "amenities": null,
+    "floorPlans": {
+      "3": {
+        "price_from": null,
+        "plans": []
+      },
+      "4": {
+        "price_from": 1350000,
+        "plans": [
+          {
+            "image": "https://newbuildingspain.com/media/photo/0001/44/thumb_43253_photo_standart.jpg",
+            "name": null,
+            "location": null,
+            "description": {
+              "totalFloors": null,
+              "type": "Semi-detached house",
+              "floor": 2,
+              "area": 459
+            },
+            "price_from": 1350000,
+            "pricem2": null,
+            "planInfo": null
+          },
+          {
+            "image": "https://newbuildingspain.com/media/photo/0001/44/thumb_43253_photo_standart.jpg",
+            "name": null,
+            "location": null,
+            "description": {
+              "totalFloors": null,
+              "type": "Detached house",
+              "floor": 2,
+              "area": 465
+            },
+            "price_from": 1350000,
+            "pricem2": null,
+            "planInfo": null
+          }
+        ]
+      }
+    },
+    "reference": null
+  },
+  {
+    "_id": "65e8a8f10b1178a2d68a2761",
+    "name": "Development Terra, new construction in Marbella",
+    "completion": "Ready",
+    "size": 1,
+    "hidden": false,
+    "price_from": 1290000,
+    "size_m2": 8600,
+    "location": "Avenida Mediterraneo , 10, 29670, Marbella, Málaga",
+    "handover": "2024-05-08T23:53:58.157+00:00",
+    "short_description": {
+      "total_floors": 0,
+      "type": "Flat",
+      "floor": null,
+      "area": null,
+      "rooms": 0
+    },
+    "pictures": [
+      "https://newbuildingspain.com/media/photo/0001/80/thumb_79847_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0001/80/thumb_79849_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0001/80/thumb_79850_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0001/80/thumb_79851_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0001/80/thumb_79852_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0001/80/thumb_79853_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0001/80/thumb_79854_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0001/80/thumb_79855_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0001/80/thumb_79856_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0001/80/thumb_79857_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0001/80/thumb_79859_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0001/80/thumb_79858_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0001/80/thumb_79860_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0001/80/thumb_79861_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0001/80/thumb_79862_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0001/80/thumb_79863_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0001/80/thumb_79864_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0001/80/thumb_79865_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0001/80/thumb_79866_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0001/80/thumb_79867_photo_standart.jpg"
+    ],
+    "coordinates": {
+      "lng": "-4.9865738",
+      "lat": "36.4748846"
+    },
+    "area": "Marbella",
+    "last_update": "2024-04-24T16:20:20.115",
+    "parsed": "2024-04-24T16:19:06.074",
+    "link": "",
+    "rating": null,
+    "isTop": null,
+    "about": {
+      "EN": {
+        "title": "",
+        "description": ""
+      }
+    },
+    "amenities": null,
+    "floorPlans": {
+      "3": {
+        "price_from": null,
+        "plans": []
+      },
+      "4": {
+        "price_from": 1290000,
+        "plans": [
+          {
+            "image": "https://newbuildingspain.com/media/photo/0001/80/thumb_79852_photo_standart.jpg",
+            "name": null,
+            "location": null,
+            "description": {
+              "totalFloors": null,
+              "type": "Penthouse",
+              "floor": 4,
+              "area": 150
+            },
+            "price_from": 1290000,
+            "pricem2": null,
+            "planInfo": null
+          },
+          {
+            "image": "https://newbuildingspain.com/media/photo/0001/80/thumb_79852_photo_standart.jpg",
+            "name": null,
+            "location": null,
+            "description": {
+              "totalFloors": null,
+              "type": "Penthouse",
+              "floor": 4,
+              "area": 150
+            },
+            "price_from": 1410000,
+            "pricem2": null,
+            "planInfo": null
+          },
+          {
+            "image": "https://newbuildingspain.com/media/photo/0001/80/thumb_79852_photo_standart.jpg",
+            "name": null,
+            "location": null,
+            "description": {
+              "totalFloors": null,
+              "type": "Penthouse",
+              "floor": 4,
+              "area": 141
+            },
+            "price_from": 1440000,
+            "pricem2": null,
+            "planInfo": null
+          },
+          {
+            "image": "https://newbuildingspain.com/media/photo/0001/80/thumb_79852_photo_standart.jpg",
+            "name": null,
+            "location": null,
+            "description": {
+              "totalFloors": null,
+              "type": "Penthouse",
+              "floor": 4,
+              "area": 143
+            },
+            "price_from": 1480000,
+            "pricem2": null,
+            "planInfo": null
+          }
+        ]
+      }
+    },
+    "reference": null
+  },
+  {
+    "_id": "65e8a9f3ec484920c0f4a1af",
+    "name": "Development One Bali Villas, new construction in Mijas",
+    "completion": "Ready",
+    "size": 1,
+    "hidden": false,
+    "price_from": 995000,
+    "size_m2": 1625,
+    "location": "Calle Periana s/n, 29469, Mijas, Málaga",
+    "handover": "2025-08-21T22:14:40.844+00:00",
+    "short_description": {
+      "total_floors": 0,
+      "type": "Flat",
+      "floor": null,
+      "area": null,
+      "rooms": 0
+    },
+    "pictures": [
+      "https://newbuildingspain.com/media/photo/0001/85/thumb_84645_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0001/85/thumb_84646_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0001/85/thumb_84647_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0001/85/thumb_84649_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0001/85/thumb_84648_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0001/85/thumb_84650_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0001/85/thumb_84651_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0001/85/thumb_84652_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0001/85/thumb_84653_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0001/85/thumb_84654_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0001/85/thumb_84655_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0001/85/thumb_84657_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0001/85/thumb_84658_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0001/85/thumb_84659_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0001/85/thumb_84660_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0001/85/thumb_84661_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0001/85/thumb_84662_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0001/85/thumb_84663_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0001/85/thumb_84664_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0001/85/thumb_84665_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0001/85/thumb_84666_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0001/85/thumb_84667_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0001/85/thumb_84668_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0001/85/thumb_84669_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0001/85/thumb_84672_photo_standart.jpg"
+    ],
+    "coordinates": {
+      "lng": "-4.7108396",
+      "lat": "36.5112115"
+    },
+    "area": "Mijas",
+    "last_update": "2024-04-24T16:20:20.664",
+    "parsed": "2024-04-24T16:19:06.624",
+    "link": "",
+    "rating": null,
+    "isTop": null,
+    "about": {
+      "EN": {
+        "title": "",
+        "description": ""
+      }
+    },
+    "amenities": null,
+    "floorPlans": {
+      "3": {
+        "price_from": 995000,
+        "plans": [
+          {
+            "image": "https://newbuildingspain.com/media/photo/0001/85/thumb_84673_photo_standart.jpg",
+            "name": null,
+            "location": null,
+            "description": {
+              "totalFloors": null,
+              "type": "Villa",
+              "floor": 2,
+              "area": 612
+            },
+            "price_from": 995000,
+            "pricem2": null,
+            "planInfo": null
+          },
+          {
+            "image": "https://newbuildingspain.com/media/photo/0001/85/thumb_84701_photo_standart.jpg",
+            "name": null,
+            "location": null,
+            "description": {
+              "totalFloors": null,
+              "type": "Villa",
+              "floor": 2,
+              "area": 523
+            },
+            "price_from": 1200000,
+            "pricem2": null,
+            "planInfo": null
+          },
+          {
+            "image": "https://newbuildingspain.com/media/photo/0001/85/thumb_84726_photo_standart.jpg",
+            "name": null,
+            "location": null,
+            "description": {
+              "totalFloors": null,
+              "type": "Villa",
+              "floor": 2,
+              "area": 480
+            },
+            "price_from": 1325000,
+            "pricem2": null,
+            "planInfo": null
+          },
+          {
+            "image": "https://newbuildingspain.com/media/photo/0001/85/thumb_84781_photo_standart.jpg",
+            "name": null,
+            "location": null,
+            "description": {
+              "totalFloors": null,
+              "type": "Villa",
+              "floor": 2,
+              "area": 476
+            },
+            "price_from": 1355000,
+            "pricem2": null,
+            "planInfo": null
+          },
+          {
+            "image": "https://newbuildingspain.com/media/photo/0001/85/thumb_84807_photo_standart.jpg",
+            "name": null,
+            "location": null,
+            "description": {
+              "totalFloors": null,
+              "type": "Villa",
+              "floor": 2,
+              "area": 527
+            },
+            "price_from": 1475000,
+            "pricem2": null,
+            "planInfo": null
+          },
+          {
+            "image": "https://newbuildingspain.com/media/photo/0001/85/thumb_84832_photo_standart.jpg",
+            "name": null,
+            "location": null,
+            "description": {
+              "totalFloors": null,
+              "type": "Villa",
+              "floor": 2,
+              "area": 635
+            },
+            "price_from": 1650000,
+            "pricem2": null,
+            "planInfo": null
+          },
+          {
+            "image": "https://newbuildingspain.com/media/photo/0001/85/thumb_84860_photo_standart.jpg",
+            "name": null,
+            "location": null,
+            "description": {
+              "totalFloors": null,
+              "type": "Villa",
+              "floor": 2,
+              "area": 577
+            },
+            "price_from": 1650000,
+            "pricem2": null,
+            "planInfo": null
+          }
+        ]
+      },
+      "4": {
+        "price_from": 1325000,
+        "plans": [
+          {
+            "image": "https://newbuildingspain.com/media/photo/0001/85/thumb_84753_photo_standart.jpg",
+            "name": null,
+            "location": null,
+            "description": {
+              "totalFloors": null,
+              "type": "Villa",
+              "floor": 2,
+              "area": 484
+            },
+            "price_from": 1325000,
+            "pricem2": null,
+            "planInfo": null
+          }
+        ]
+      }
+    },
+    "reference": null
+  },
+  {
+    "_id": "65e8a9f4ec484920c0f4a1bb",
+    "name": "Development Villa en Parcela 90, new construction in Mijas",
+    "completion": "Ready",
+    "size": 1,
+    "hidden": false,
+    "price_from": 1175000,
+    "size_m2": 3245,
+    "location": "Calle Ciruelo - Urbanizacion Buenavista parcela, 90, 29650, Mijas, Málaga",
+    "handover": "2024-10-02T23:28:44.742+00:00",
+    "short_description": {
+      "total_floors": 0,
+      "type": "Flat",
+      "floor": null,
+      "area": null,
+      "rooms": 0
+    },
+    "pictures": [
+      "https://newbuildingspain.com/media/photo/0001/86/thumb_85245_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0001/86/thumb_85247_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0001/86/thumb_85248_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0001/86/thumb_85249_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0001/86/thumb_85250_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0001/86/thumb_85251_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0001/86/thumb_85252_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0001/86/thumb_85253_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0001/86/thumb_85254_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0001/86/thumb_85255_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0001/86/thumb_85256_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0001/86/thumb_85257_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0001/86/thumb_85258_photo_standart.jpg"
+    ],
+    "coordinates": {
+      "lng": "-4.6093345",
+      "lat": "36.5931996"
+    },
+    "area": "Mijas",
+    "last_update": "2024-04-24T16:20:21.011",
+    "parsed": "2024-04-24T16:19:06.969",
+    "link": "",
+    "rating": null,
+    "isTop": null,
+    "about": {
+      "EN": {
+        "title": "",
+        "description": ""
+      }
+    },
+    "amenities": null,
+    "floorPlans": {
+      "4": {
+        "price_from": 1175000,
+        "plans": [
+          {
+            "image": "https://newbuildingspain.com/media/photo/0001/86/thumb_85259_photo_standart.jpg",
+            "name": null,
+            "location": null,
+            "description": {
+              "totalFloors": null,
+              "type": "Villa",
+              "floor": 2,
+              "area": 362
+            },
+            "price_from": 1175000,
+            "pricem2": null,
+            "planInfo": null
+          }
+        ]
+      }
+    },
+    "reference": null
+  },
+  {
+    "_id": "65e8a9f4ec484920c0f4a1c8",
+    "name": "Development Aria, new construction in Mijas",
+    "completion": "Ready",
+    "size": 1,
+    "hidden": false,
+    "price_from": 1290000,
+    "size_m2": 4174,
+    "location": "Mijas, Málaga",
+    "handover": "2025-12-20T06:37:02.243+00:00",
+    "short_description": {
+      "total_floors": 0,
+      "type": "Flat",
+      "floor": null,
+      "area": null,
+      "rooms": 0
+    },
+    "pictures": [
+      "https://newbuildingspain.com/media/photo/0004/77/thumb_376347_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0004/77/thumb_376340_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0004/77/thumb_376341_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0004/77/thumb_376342_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0004/77/thumb_376343_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0004/77/thumb_376344_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0004/77/thumb_376345_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0004/77/thumb_376346_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0004/77/thumb_376348_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0004/77/thumb_376349_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0004/77/thumb_376350_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0004/77/thumb_376351_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0004/77/thumb_376352_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0004/77/thumb_376353_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0004/77/thumb_376354_photo_standart.jpg"
+    ],
+    "coordinates": {
+      "lng": "-4.637519",
+      "lat": "36.595747"
+    },
+    "area": "Mijas",
+    "last_update": "2024-04-24T16:20:21.392",
+    "parsed": "2024-04-24T16:19:07.342",
+    "link": "",
+    "rating": null,
+    "isTop": null,
+    "about": {
+      "EN": {
+        "title": "",
+        "description": ""
+      }
+    },
+    "amenities": null,
+    "floorPlans": {
+      "3": {
+        "price_from": 1290000,
+        "plans": [
+          {
+            "image": "https://newbuildingspain.com/media/photo/0004/77/thumb_376340_photo_standart.jpg",
+            "name": null,
+            "location": null,
+            "description": {
+              "totalFloors": null,
+              "type": "Penthouse",
+              "floor": 3,
+              "area": 309
+            },
+            "price_from": 1290000,
+            "pricem2": null,
+            "planInfo": null
+          }
+        ]
+      }
+    },
+    "reference": null
+  },
+  {
+    "_id": "65e8aac923962bcead590319",
+    "name": "Development The Kos, new construction in Fuengirola",
+    "completion": "Ready",
+    "size": 1,
+    "hidden": false,
+    "price_from": 1100000,
+    "size_m2": 6321,
+    "location": "Calle Sierra Nevada s/n, 29639, Fuengirola, Málaga",
+    "handover": "2025-07-31T04:44:53.385+00:00",
+    "short_description": {
+      "total_floors": 0,
+      "type": "Flat",
+      "floor": null,
+      "area": null,
+      "rooms": 0
+    },
+    "pictures": [
+      "https://newbuildingspain.com/media/photo/0003/77/thumb_276710_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0003/77/thumb_276712_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0003/77/thumb_276713_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0003/77/thumb_276714_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0003/77/thumb_276715_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0003/77/thumb_276716_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0003/77/thumb_276717_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0003/77/thumb_276718_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0003/77/thumb_276719_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0003/77/thumb_276720_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0003/77/thumb_276721_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0003/77/thumb_276722_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0003/77/thumb_276723_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0003/77/thumb_276724_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0003/77/thumb_276725_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0003/77/thumb_276726_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0003/77/thumb_276727_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0003/77/thumb_276728_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0003/77/thumb_276729_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0003/77/thumb_276730_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0003/77/thumb_276731_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0003/77/thumb_276732_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0003/77/thumb_276733_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0003/77/thumb_276734_photo_standart.jpg"
+    ],
+    "coordinates": {
+      "lng": "-4.5973685",
+      "lat": "36.5716793"
+    },
+    "area": "Fuengirola",
+    "last_update": "2024-04-24T16:20:21.942",
+    "parsed": "2024-04-24T16:19:07.886",
+    "link": "",
+    "rating": null,
+    "isTop": null,
+    "about": {
+      "EN": {
+        "title": "",
+        "description": ""
+      }
+    },
+    "amenities": null,
+    "floorPlans": {
+      "3": {
+        "price_from": 1100000,
+        "plans": [
+          {
+            "image": "https://newbuildingspain.com/media/photo/0003/77/thumb_276736_photo_standart.jpg",
+            "name": null,
+            "location": null,
+            "description": {
+              "totalFloors": null,
+              "type": "Townhouse",
+              "floor": 4,
+              "area": 174
+            },
+            "price_from": 1100000,
+            "pricem2": null,
+            "planInfo": null
+          }
+        ]
+      }
+    },
+    "reference": null
+  },
+  {
+    "_id": "65e8aac923962bcead590325",
+    "name": "Development The Wave Collection, new construction in Fuengirola",
+    "completion": "Ready",
+    "size": 1,
+    "hidden": false,
+    "price_from": 1070000,
+    "size_m2": 5144,
+    "location": "Fuengirola, Málaga",
+    "handover": "2025-07-08T21:57:28.828+00:00",
+    "short_description": {
+      "total_floors": 0,
+      "type": "Flat",
+      "floor": null,
+      "area": null,
+      "rooms": 0
+    },
+    "pictures": [
+      "https://newbuildingspain.com/media/photo/0004/77/thumb_376380_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0004/77/thumb_376383_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0004/77/thumb_376393_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0004/77/thumb_376392_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0004/77/thumb_376391_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0004/77/thumb_376390_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0004/77/thumb_376389_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0004/77/thumb_376388_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0004/77/thumb_376387_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0004/77/thumb_376386_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0004/77/thumb_376385_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0004/77/thumb_376384_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0004/77/thumb_376372_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0004/77/thumb_376382_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0004/77/thumb_376381_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0004/77/thumb_376379_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0004/77/thumb_376378_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0004/77/thumb_376377_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0004/77/thumb_376376_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0004/77/thumb_376375_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0004/77/thumb_376374_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0004/77/thumb_376373_photo_standart.jpg"
+    ],
+    "coordinates": {
+      "lng": "-4.623335",
+      "lat": "36.538778"
+    },
+    "area": "Fuengirola",
+    "last_update": "2024-04-24T16:20:22.291",
+    "parsed": "2024-04-24T16:19:08.228",
+    "link": "",
+    "rating": null,
+    "isTop": null,
+    "about": {
+      "EN": {
+        "title": "",
+        "description": ""
+      }
+    },
+    "amenities": null,
+    "floorPlans": {
+      "2": {
+        "price_from": 1070000,
+        "plans": [
+          {
+            "image": "https://newbuildingspain.com/media/photo/0004/77/thumb_376380_photo_standart.jpg",
+            "name": null,
+            "location": null,
+            "description": {
+              "totalFloors": null,
+              "type": "Penthouse",
+              "floor": 0,
+              "area": 208
+            },
+            "price_from": 1070000,
+            "pricem2": null,
+            "planInfo": null
+          }
+        ]
+      }
+    },
+    "reference": null
+  },
+  {
+    "_id": "65e8aca1f560cbda0f43b2fb",
+    "name": "Development El Duende, new construction in Estepona",
+    "completion": "Ready",
+    "size": 1,
+    "hidden": false,
+    "price_from": 975000,
+    "size_m2": 2044,
+    "location": "Estepona, Estepona, Málaga",
+    "handover": "2024-07-19T16:13:53.464+00:00",
+    "short_description": {
+      "total_floors": 0,
+      "type": "Flat",
+      "floor": null,
+      "area": null,
+      "rooms": 0
+    },
+    "pictures": [
+      "https://newbuildingspain.com/media/photo/0001/48/thumb_47975_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0001/48/thumb_47983_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0001/48/thumb_47986_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0001/48/thumb_47985_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0001/48/thumb_47984_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0001/48/thumb_47982_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0001/48/thumb_47981_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0001/48/thumb_47980_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0001/48/thumb_47979_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0001/48/thumb_47978_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0001/48/thumb_47977_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0001/48/thumb_47976_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0001/48/thumb_47973_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0001/48/thumb_47974_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0001/48/thumb_47992_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0001/48/thumb_47991_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0001/48/thumb_47990_photo_standart.jpg",
+      "https://newbuildingspain.com/media/photo/0001/48/thumb_47989_photo_standart.jpg"
+    ],
+    "coordinates": {
+      "lng": "-5.1754188537598",
+      "lat": "36.417837602441"
+    },
+    "area": "Estepona",
+    "last_update": "2024-04-24T16:20:22.407",
+    "parsed": "2024-04-24T16:19:08.341",
+    "link": "",
+    "rating": null,
+    "isTop": null,
+    "about": {
+      "EN": {
+        "title": "New development for sale in Estepona, Málaga",
+        "description": "17 independent villas, each with its own private pool and large green areas of gardens with native plants. Each villa will have 3 or 4 bedrooms, 3 bathrooms, a living room with fireplace separated from the kitchen and dining room by the interior garden, several covered and uncovered terraces, 2 parking spaces, double height ceilings at the entrance, a solarium, and basement, decorative elements of wood and natural stone. The villas have views of the golf course, countryside, and the Mediterranean Sea, in the heart of Estepona Golf, just 5 minutes from the center of Estepona city surrounded by all kinds of services, including international schools, high-resolution hospital and numerous options for leisure and sports practice. Nearby places: Estepona at 5 minutes by car, Marbella at 30 minutes by car, the beach (less than 2 km), town center (less than 7 km), golf course (less than 100 m), Costa Atlantica at 1h by car. The international airport of Malaga is at 1h by car. Deadlines: from 1st quarter of 2023 - to the end of 2024 Surfaces: from 380 m2 built, from 400 m2 plot"
+      }
+    },
+    "amenities": null,
+    "floorPlans": {
+      "3": {
+        "price_from": 975000,
+        "plans": [
+          {
+            "image": "https://newbuildingspain.com/media/photo/0001/49/thumb_48033_photo_standart.jpg",
+            "name": null,
+            "location": null,
+            "description": {
+              "totalFloors": null,
+              "type": "Villa",
+              "floor": 3,
+              "area": 476.87
+            },
+            "price_from": 975000,
+            "pricem2": null,
+            "planInfo": null
+          },
+          {
+            "image": "https://newbuildingspain.com/media/photo/0001/49/thumb_48013_photo_standart.jpg",
+            "name": null,
+            "location": null,
+            "description": {
+              "totalFloors": null,
+              "type": "Villa",
+              "floor": 3,
+              "area": 437.64
+            },
+            "price_from": 1100000,
+            "pricem2": null,
+            "planInfo": null
+          },
+          {
+            "image": "https://newbuildingspain.com/media/photo/0001/49/thumb_48018_photo_standart.jpg",
+            "name": null,
+            "location": null,
+            "description": {
+              "totalFloors": null,
+              "type": "Villa",
+              "floor": 3,
+              "area": 437.75
+            },
+            "price_from": 1100000,
+            "pricem2": null,
+            "planInfo": null
+          },
+          {
+            "image": "https://newbuildingspain.com/media/photo/0001/49/thumb_48028_photo_standart.jpg",
+            "name": null,
+            "location": null,
+            "description": {
+              "totalFloors": null,
+              "type": "Villa",
+              "floor": 3,
+              "area": 485.89
+            },
+            "price_from": 1100000,
+            "pricem2": null,
+            "planInfo": null
+          },
+          {
+            "image": "https://newbuildingspain.com/media/photo/0001/49/thumb_48008_photo_standart.jpg",
+            "name": null,
+            "location": null,
+            "description": {
+              "totalFloors": null,
+              "type": "Villa",
+              "floor": 3,
+              "area": 446.45
+            },
+            "price_from": 1150000,
+            "pricem2": null,
+            "planInfo": null
+          },
+          {
+            "image": "https://newbuildingspain.com/media/photo/0001/49/thumb_48040_photo_standart.jpg",
+            "name": null,
+            "location": null,
+            "description": {
+              "totalFloors": null,
+              "type": "Villa",
+              "floor": 3,
+              "area": 445.14
+            },
+            "price_from": 1150000,
+            "pricem2": null,
+            "planInfo": null
+          },
+          {
+            "image": "https://newbuildingspain.com/media/photo/0001/49/thumb_48045_photo_standart.jpg",
+            "name": null,
+            "location": null,
+            "description": {
+              "totalFloors": null,
+              "type": "Villa",
+              "floor": 3,
+              "area": 447.26
+            },
+            "price_from": 1150000,
+            "pricem2": null,
+            "planInfo": null
+          },
+          {
+            "image": "https://newbuildingspain.com/media/photo/0001/49/thumb_48050_photo_standart.jpg",
+            "name": null,
+            "location": null,
+            "description": {
+              "totalFloors": null,
+              "type": "Villa",
+              "floor": 3,
+              "area": 447.26
+            },
+            "price_from": 1150000,
+            "pricem2": null,
+            "planInfo": null
+          },
+          {
+            "image": "https://newbuildingspain.com/media/photo/0001/49/thumb_48055_photo_standart.jpg",
+            "name": null,
+            "location": null,
+            "description": {
+              "totalFloors": null,
+              "type": "Villa",
+              "floor": 3,
+              "area": 447.27
+            },
+            "price_from": 1300000,
+            "pricem2": null,
+            "planInfo": null
+          }
+        ]
+      },
+      "4": {
+        "price_from": 1300000,
+        "plans": [
+          {
+            "image": "https://newbuildingspain.com/media/photo/0001/48/thumb_47995_photo_standart.jpg",
+            "name": null,
+            "location": null,
+            "description": {
+              "totalFloors": null,
+              "type": "Villa",
+              "floor": 3,
+              "area": 562.02
+            },
+            "price_from": 1300000,
+            "pricem2": null,
+            "planInfo": null
+          },
+          {
+            "image": "https://newbuildingspain.com/media/photo/0001/49/thumb_48001_photo_standart.jpg",
+            "name": null,
+            "location": null,
+            "description": {
+              "totalFloors": null,
+              "type": "Villa",
+              "floor": 3,
+              "area": 526.06
+            },
+            "price_from": 1300000,
+            "pricem2": null,
+            "planInfo": null
+          }
+        ]
+      }
+    },
+    "reference": null
+  }
+]
