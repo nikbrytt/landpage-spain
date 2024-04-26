@@ -34,9 +34,9 @@ const index = () => {
                                     </a>
                                 </div>
                                 <div className="projectLanPage__projects-texts">
-                                    <h4 className="projectLanPage__projects-title">${item.name}</h4>
+                                    <h4 className="projectLanPage__projects-title">{item?.name?.substring(item?.name.indexOf("Development") + "Development".length, item.name.indexOf(",")).trim()}</h4>
                                     <span
-                                        className="projectLanPage__projects-subtitle">by ${item.area}</span>
+                                        className="projectLanPage__projects-subtitle">{item.area}</span>
                                 </div>
                             </div>
                         </li>
