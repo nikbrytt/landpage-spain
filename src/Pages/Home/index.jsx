@@ -123,7 +123,7 @@ const Home = () => {
                     </div>
 
                     <a className="selection-block__button">
-                        Скачать подборку
+                    Посмотреть проекты
                     </a>
                 </div>
                 <img src="/banner-photo.png"/>
@@ -167,7 +167,7 @@ const Home = () => {
                                                   fill="white"/>
                                         </svg>
                                     }
-                                    15 минут
+                                    50 минут
                                 </div>
                             </div>
                         </article>
@@ -277,7 +277,7 @@ const Home = () => {
                                 <div className="meetingLanPage__content-info">
                                     <div className="meetingLanPage__content-inputs">
                                         <input type="text" name="name" className="meetingLanPage__content-input"
-                                               placeholder='Your name'/>
+                                               placeholder='Ваше имя'/>
                                         <svg xmlns="http://www.w3.org/2000/svg" width="23" height="24"
                                              viewBox="0 0 23 24" fill="none">
                                             <path
@@ -287,7 +287,7 @@ const Home = () => {
                                     </div>
                                     <div className="meetingLanPage__content-inputs">
                                         <input type="text" name="name" className="meetingLanPage__content-input"
-                                               placeholder='Phone number'/>
+                                               placeholder='Номер телефона'/>
                                         <svg xmlns="http://www.w3.org/2000/svg" width="23" height="24"
                                              viewBox="0 0 23 24" fill="none">
                                             <path
@@ -296,7 +296,7 @@ const Home = () => {
                                         </svg>
                                     </div>
                                     <button className="meetingLanPage__content-btn">
-                                        Select time
+                                    Выберите время
                                         <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24"
                                              viewBox="0 0 24 24" fill="none">
                                             <path

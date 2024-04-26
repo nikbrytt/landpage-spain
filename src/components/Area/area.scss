@@ -13,6 +13,7 @@
       display: flex;
       flex-direction: column;
       gap: 24px;
+      width: 386px;
 
       li {
         &:first-child {
@@ -56,6 +57,12 @@
           color: #FFF;
           border: 1px solid #DFB693;
           background: #DBA77B;
+          transition: all 0.3s;
+          cursor: pointer;
+
+          &:hover {
+            background-color: #DFB693;
+          }
         }
 
         &:last-child {

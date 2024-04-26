@@ -22,14 +22,15 @@
 
       h1 {
         font-size: 64px;
+        font-weight: 500;
         margin-bottom: 25px;
       }
 
       h4 {
-        font-size: 24px;
+        font-size: 18px;
         font-style: normal;
-        font-weight: 400;
-        line-height: 32px;
+        font-weight: 300;
+        line-height: 23px;
         max-width: 365px;
 
         margin-bottom: 20px;
@@ -45,21 +46,21 @@
 
           div:first-child {
             display: flex;
-            font-size: 24px;
+            font-size: 18px;
             font-weight: 400;
-            gap: 10px;
+            gap: 5px;
             line-height: 32px;
 
             span {
               white-space: nowrap;
-              font-weight: 600;
+              font-weight: 400;
               line-height: 32px;
             }
           }
 
           div:last-child {
             color: #F1F1F1;
-            font-size: 16px;
+            font-size: 14px;
             font-style: normal;
             font-weight: 300;
             line-height: 20px;
@@ -97,7 +98,7 @@
           font-family: Roboto;
           font-size: 24px;
           font-style: normal;
-          font-weight: 600;
+          font-weight: 500;
           line-height: 35px;
 
           margin-bottom: 18px;
@@ -227,12 +228,18 @@
         width: fit-content;
         align-items: center;
         gap: 10px;
+        font-size: 15px;
 
         border-radius: 12px;
         border: 1px solid #DFB693;
         background: #DBA77B;
         white-space: nowrap;
         box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.05);
+        transition: all 0.2s;
+
+        &:hover {
+          background-color: #EBB384;
+        }
 
         cursor: pointer;
       }
@@ -253,14 +260,14 @@
 .infrastructure {
   display: flex;
   flex-direction: column;
-  gap: 32px;
+  gap: 16px;
   padding: 70px 140px 20px 140px;
 
   .infrastructure__title {
     h3 {
       color: #222;
       font-family: Roboto;
-      font-size: 42px;
+      font-size: 36px;
       font-style: normal;
       font-weight: 500;
       line-height: normal;
@@ -269,7 +276,7 @@
 
   .infrastructure__infrastructures-blocks {
     display: flex;
-    gap: 32px;
+    gap: 16px;
 
     .infrastructures-block {
       height: 267px;
@@ -298,9 +305,12 @@
       }
 
       .infrastructures-block__info {
+        display: flex;
+        flex-direction: column;
+        gap: 5px;
         position: absolute;
-        left: 12px;
-        bottom: 10px;
+        left: 14px;
+        bottom: 12px;
         z-index: 10;
 
         div:first-child {
@@ -346,14 +356,14 @@
     h3 {
       color: #222;
       font-family: Roboto;
-      font-size: 42px;
+      font-size: 20px;
       font-style: normal;
       font-weight: 500;
       line-height: normal;
     }
 
     p {
-      width: 48%;
+      width: 65%;
       color: #717171;
       font-family: Roboto;
       font-size: 15px;
@@ -512,7 +522,7 @@
       border: none;
 
       &::placeholder {
-        color: white;
+        color: #f1f1f1;
       }
     }
 
@@ -526,6 +536,12 @@
       font-size: 14px;
       font-weight: 400;
       line-height: 16.41px;
+      transition: all 0.4s;
+
+
+      &:hover {
+        background-color: #EBB384;
+      }
     }
   }
 }
